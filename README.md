@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋, I'm Sagnik</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sagnikkroy" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg]https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" alt="sagnikkroy" height="30" width="40" /></a>
+<a href="https://instagram.com/sagnikkroy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" alt="sagnikkroy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
