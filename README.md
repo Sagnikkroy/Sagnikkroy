@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/<Sagnikkroy>/<Sagnikkroy>/<branch>/path/to/banner.png)
 
-<h1 align="center">Hello there 👋, I'm Sagnik</h1>
+<h1 align="center">Hello 🌎, I'm Sagnik</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sagnikkroy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" alt="sagnikkroy" height="30" width="40" /></a>
