@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/520b86106183577.5f89d40c8750b.jpeg"  />
-</div>
-
 ###
 
 <div align="center">
