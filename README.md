@@ -5,9 +5,6 @@
 sagnikkroy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/sagnikkroy/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
  <a href="https://twitter.com/Sagnikkroy" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
    </a>
@@ -29,7 +26,7 @@ sagnikkroy" target="_blank">
 
 ###
 
-<p align="left"> working on building AstralStudio<br>- 📚 currently learning Android development <br>- In my free time I like to take pictures and film</p>
+<p align="left">- working on building AstralStudio<br>- currently learning Android development <br>- In my free time I like to take pictures and film</p>
 
 ###
 
