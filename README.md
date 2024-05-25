@@ -12,9 +12,7 @@ sagnikkroy" target="_blank">
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sagnikkroy.sagnikkroy&"  />
-</div>
+
 
 ###
 
@@ -48,7 +46,7 @@ sagnikkroy" target="_blank">
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Some Stats :</h3>
 
 ###
 
