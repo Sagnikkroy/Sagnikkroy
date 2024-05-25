@@ -43,10 +43,11 @@ sagnikkroy" target="_blank">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
+<hr/>
 
 ###
 
-<h3 align="left">🔥   Some Stats :</h3>
+<h3 align="left">Some Stats :</h3>
 
 ###
 
