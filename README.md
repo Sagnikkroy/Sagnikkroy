@@ -29,7 +29,7 @@ sagnikkroy" target="_blank">
 
 ###
 
-<p align="left"> 🔭 working on building AstralStudio<br>- 📚 currently learning Android development <br>- ⚡ In my free time I like to take pictures and film</p>
+<p align="left"> working on building AstralStudio<br>- 📚 currently learning Android development <br>- In my free time I like to take pictures and film</p>
 
 ###
 
