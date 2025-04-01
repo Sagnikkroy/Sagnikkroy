@@ -24,7 +24,7 @@ sagnikkroy" target="_blank">
 
 ###
 
-<p align="left">- working on learning backend web-dev<br>- currently learning Android development <br>- In my free time I like to take pictures and film</p>
+<p align="left">- working on learning Deep Learning<br>- currently learning machine learning algorithms  <br>- In my free time I like to take pictures and film</p>
 
 ###
 
