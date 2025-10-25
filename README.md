@@ -23,11 +23,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnikkroy/)
 [![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sagnikkroy)
 </div>
----
 <div align="center">
-
-*"The limits of my language mean the limits of my world."* - Ludwig Wittgenstein
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Sagnikkroy&color=blueviolet&style=for-the-badge)
 
 </div>
