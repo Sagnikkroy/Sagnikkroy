@@ -1,7 +1,4 @@
 
-
-## What I Do
-
 - **Natural Language Understanding** - Sentiment analysis, NER, text classification
 - **Language Models** - Fine-tuning transformers (BERT, GPT, T5, LLaMA)
 - **Information Extraction** - Entity extraction, relation extraction, knowledge graphs
